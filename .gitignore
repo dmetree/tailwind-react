@@ -9,14 +9,16 @@
 /coverage
 
 # production
-# /build
-/public
-/src
-/package.json
-/package-lock.json
-/postcss.config.js
-/README.md
-/tailwind.js
+/build
+# /public
+# /src
+# /package.json
+# /package-lock.json
+# /postcss.config.js
+# /README.md
+# /tailwind.js
+
+
 # misc
 .DS_Store
 .env.local
